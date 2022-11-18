@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nadezhda Yuzhakova
 - 👀 I’m interested in Product Management.
-- 🌱 I’m currently learning Linux.
+- 🌱 I’m currently learning Python with Python Crash Course by E. Matthes.
 - 📫 You can reach me here:
     - https://t.me/zerocodilla
     - https://www.linkedin.com/in/nadezhda-yuzhakova-49b04978/
