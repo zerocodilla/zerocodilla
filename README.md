@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nadezhda Yuzhakova
-- 👀 I’m interested in Product Management.
-- 🌱 I’m currently learning Python with Python Crash Course by E. Matthes.
+- 👀 I’m passionate about Product Management.
+- I love tech and learning. Here is my article about Technical Skills for PMs: https://dev.to/zerocodilla/technical-skills-for-product-manager-1m1p
 - 📫 You can reach me here:
     - https://t.me/zerocodilla
     - https://www.linkedin.com/in/nadezhda-yuzhakova-49b04978/
