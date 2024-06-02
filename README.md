@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nadezhda Yuzhakova
 - 👀 I’m passionate about Product Management.
-- Check out our startup https://catwordy.com/
+- Check out our startup [CatWordy](https://catwordy.com/)
 - I love tech and learning. Here is my article about [Technical Skills for PMs](https://dev.to/zerocodilla/technical-skills-for-product-manager-1m1p)
 - 📫 You can reach me here:
     - [Telegram](https://t.me/zerocodilla)
