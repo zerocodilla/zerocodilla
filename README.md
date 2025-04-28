@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Nadezhda Yuzhakova
+- 👋 Hi, I’m Nadia Yuzhakova
 - 👀 I’m passionate about Product Management.
-- Check out our startup [CatWordy](https://catwordy.com/)
 - I love tech and learning. Here are my [articles](https://dev.to/zerocodilla).
 - 📫 You can reach me here:
     - [Telegram](https://t.me/zerocodilla)
